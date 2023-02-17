@@ -1,2 +1,0 @@
-aiogram==2.23.1
-environs==9.5.0
